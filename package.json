@@ -1,0 +1,15 @@
+{
+    "name": "my-backend-project",
+    "version": "1.0.0",
+    "description": "Deskripsi proyek back-end",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "keywords": [],
+    "author": "Nama Kamu",
+    "license": "ISC"
+  }
+  
